@@ -8,7 +8,7 @@ from openai import OpenAI
 # api_key = os.getenv('API_KEY')
 # print(api_key)
 client = OpenAI(
-    api_key='4145705edf7f4dc0990ad60d4b5298ad.qVVdi0QBsBVOPVyy',
+    api_key='我的帐号',
     base_url='https://open.bigmodel.cn/api/paas/v4/'
 
 )

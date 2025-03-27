@@ -6,7 +6,7 @@ from zhipuai import ZhipuAI
 
 # api_key = os.getenv('API_KEY')
 # print(api_key)
-client = ZhipuAI(api_key='4145705edf7f4dc0990ad60d4b5298ad.qVVdi0QBsBVOPVyy')
+client = ZhipuAI(api_key='我的帐号')
 response = client.chat.completions.create(
     model='glm-4-0520', # glm-4-9b
     # model='glm-4-flash',
