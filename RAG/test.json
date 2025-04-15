@@ -1,0 +1,29 @@
+{
+  "image": {
+    "creation_timestamp": 1675549016,
+    "uri": "image_of_the_chat.jpg"
+  },
+  "is_still_participant": "true",
+  "joinable_model": {
+    "link": "",
+    "mode": 1
+  },
+  "magic_words": [],
+  "messages": [
+    {
+      "content": "Bye!",
+      "sender_name": "User 2",
+      "timestamp_ms": 1675597571851
+    },
+    {
+      "content": "Oh no worries! Bye",
+      "sender_name": "User 1",
+      "timestamp_ms": 1675597435669
+    },
+    {
+      "content": "No Im sorry it was my mistake, the blue one is not from",
+      "sender_name": "User 3",
+      "timestamp_ms": 1744677107000
+    }
+  ]
+}
