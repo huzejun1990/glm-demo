@@ -24,10 +24,12 @@ text_splitter = RecursiveCharacterTextSplitter(
     "\n",
     ".",
     "?",
-    "!"
-    ",",
+    "!",
+    "。",
     "！",
     "？",
+    ",",
+    "，",
     " "
     ]
 )
